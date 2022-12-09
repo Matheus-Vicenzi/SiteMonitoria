@@ -11,6 +11,6 @@
 - Java JDK 1.8
 - Java JRE 17
 - TomCat 9
-- MySQL
-- JQuery
-- Bootstrap
+- MySQL 8.0
+- JQuery 3.6
+- Bootstrap 5.2.2
